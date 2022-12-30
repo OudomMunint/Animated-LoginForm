@@ -8,7 +8,7 @@
 }
 body {
     min-height: 100%;
-    background-color: #ffffff;
+    background: rgb(197, 197, 197) !important;
 }
 h1 {
     letter-spacing: -1px;
@@ -18,7 +18,7 @@ a {
   text-decoration: unset;
 }
 .login-root {
-    background: #fff;
+    background: rgb(197, 197, 197) !important;
     display: flex;
     width: 100%;
     min-height: 100vh;
@@ -69,7 +69,7 @@ a {
     background-color: #5469d4;
 }
 .box-background--white {
-  background-color: #ffffff; 
+  background-color: #dbdbdb; 
 }
 .box-background--blue800 {
     background-color: #212d63;
